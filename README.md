@@ -1,6 +1,5 @@
 # AIML-1278
 #Artificial Intelligence and Machine Learning Lab
-
 1.[lab 01](): Introduction to Python 
 2.[lab 02]():
 3.[lab 03]():
